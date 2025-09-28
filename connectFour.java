@@ -32,6 +32,8 @@ public class connectFour {
             lineSeparator();
         }
 
+        System.out.println("Game Finished!");
+
     }
 
     private static void createBoard(char[][] board, int rows, int columns) {
